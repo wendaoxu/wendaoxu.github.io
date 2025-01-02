@@ -55,32 +55,29 @@ education:
     date_start: 2019-09
     date_end: 2025-06 (expected)
     summary: |
-      Ultranarrow-Linewidth Brillouin Scatting for High-Performance Microwave Photonic Filters.
+      GPA: 4.00/4.00
+
+      Reseach topic: Ultranarrow-Linewidth Brillouin Scatting for High-Performance Microwave Photonic Filters.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
   - area: MS | Electrical and Computer Engineering
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: University of Rochester
+    date_start: 2017-09
+    date_end: 2019-05
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.88/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      Thesis: Forward Brillouin Scattering in Micro-Structured Hollow Core Fibers.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BEng | Optoelectronic information Science and Technology
+    institution: Huazhong University of Science and Technology
+    date_start: 2013-09
+    date_end: 2017-06
+    summary: |
+      GPA: 91.1/100
+      
+      Thesis: Simultaneous Dual-parameter Fiber Sensing with Optical Thin Core Fibers.
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
