@@ -52,8 +52,8 @@ interests:
 education:
   - area: PhD | Optics
     institution: University of Rochester
-    date_start: 2019-09
-    date_end: 2025-06 (expected)
+    #date_start: 2019-09
+    #date_end: 2025-06 (expected)
     summary: |
       GPA: 4.00/4.00
 
@@ -63,8 +63,8 @@ education:
     #  url: 'https://example.com'
   - area: MS | Electrical and Computer Engineering
     institution: University of Rochester
-    date_start: 2017-09
-    date_end: 2019-05
+    #date_start: 2017-09-01
+    #date_end: 2019-05-31
     summary: |
       GPA: 3.88/4.0
 
@@ -72,8 +72,8 @@ education:
       
   - area: BEng | Optoelectronic information Science and Technology
     institution: Huazhong University of Science and Technology
-    date_start: 2013-09
-    date_end: 2017-06
+    #date_start: 2013-09-01
+    #date_end: 2017-06-30
     summary: |
       GPA: 91.1/100
       
@@ -83,8 +83,8 @@ work:
     company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    #date_start: 2021-01-01
+    #date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
