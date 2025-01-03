@@ -28,6 +28,7 @@ abstract: Traveling-wave optomechanical interactions, known as Brillouin interac
   with long phonon lifetimes. A generalized theoretical model, in excellent agreement
   with experiments, is developed with broad applicability to inhomogeneous optomechanical
   systems.
+featured: true
 tags:
 - Stimulated Brillouin scattering
 - Optomechanics
