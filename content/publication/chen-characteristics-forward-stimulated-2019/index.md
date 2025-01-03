@@ -1,0 +1,41 @@
+---
+title: Characteristics of Forward Stimulated Brillouin Scattering Effect in Silica
+  Fibers with Different Microstructures
+authors:
+- Liang Chen
+- Wei Zhang
+- Panyun Gao
+- Peng Wang
+- Xiu Zhang
+- Yong Zhou
+- Jigang Hu
+- Meisong Liao
+- Takenobu Suzuki
+- Yasutake Ohishi
+- Weiqing Gao
+date: '2019-02-01'
+publishDate: '2025-01-03T02:26:45.318100Z'
+publication_types:
+- article-journal
+publication: '*Optik*'
+doi: 10.1016/j.ijleo.2018.10.185
+abstract: In this paper, the forward Brillouin scattering frequency shift of step-index
+  fibers and photonic crystal fibers (PCFs) with different core diameters is investigated
+  by numerical simulation. The result shows that, multiple Brillouin scattering peaks
+  with the shift range from 20 to 800 MHz are generated in the step-index fibers.
+  With the core diameter changing, the Brillouin scattering frequency shift has no
+  change, but the scattering efficiency is different. In the PCFs with periodic air
+  holes, there are a few dominant peaks. The frequency shifts vary with the core diameter
+  changing. For the core diameter of 11.6 $μ$m, there are three peaks at 327.39, 556.48
+  and 824.14 MHz, respectively. When the core diameter decreases to 2.32 $μ$m, the
+  frequency shifts of forward Brilloun scattering are 1.619, 2.779 and 4.123 GHz,
+  respectively. The forward Brillouin frequency shifts increase with the core diameter
+  decreasing. The results will be useful for the research on the mechanism of forward
+  Brillouin scattering and have potential applications on the field of nonlinear fiber
+  optics.
+tags:
+- Forward Brillouin scattering
+- Frequency shift
+- Guide acoustic-wave
+- Photonic crystal fibers
+---
