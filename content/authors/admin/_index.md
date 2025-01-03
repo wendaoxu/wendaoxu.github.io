@@ -134,5 +134,5 @@ awards:
 
 ## About Me
 
-Wendao Xu is a PhD candidate at the Renninger Lab, University of Rochester, NY, USA, under the guidance of Prof. William Renninger. His research interests include stimulated Brillouin scattering, cavity optomechanics and microwave photonics. 
+Wendao Xu is a PhD candidate at the [Renninger Lab](https://labsites.rochester.edu/renninger/), University of Rochester, NY, USA, under the guidance of Prof. William Renninger. His research interests include stimulated Brillouin scattering, cavity optomechanics and microwave photonics. 
 
