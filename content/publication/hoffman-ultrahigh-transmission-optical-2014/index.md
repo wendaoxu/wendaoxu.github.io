@@ -1,0 +1,34 @@
+---
+title: Ultrahigh Transmission Optical Nanofibers
+authors:
+- J. E. Hoffman
+- S. Ravets
+- J. A. Grover
+- P. Solano
+- P. R. Kordell
+- J. D. Wong-Campos
+- L. A. Orozco
+- S. L. Rolston
+date: '2014-06-01'
+publishDate: '2025-01-03T02:26:46.158648Z'
+publication_types:
+- article-journal
+publication: '*AIP Advances*'
+doi: 10.1063/1.4879799
+abstract: We present a procedure for reproducibly fabricating ultrahigh transmission
+  optical nanofibers (530 nm diameter and 84 mm stretch) with single-mode transmissions
+  of 99.95 textpm 0.02%, which represents a loss from tapering of 2.6 ,×, 10-5 dB/mm
+  when normalized to the entire stretch. When controllably launching the next family
+  of higher-order modes on a fiber with 195 mm stretch, we achieve a transmission
+  of 97.8 textpm 2.8%, which has a loss from tapering of 5.0 ,×, 10-4 dB/mm when normalized
+  to the entire stretch. Our pulling and transfer procedures allow us to fabricate
+  optical nanofibers that transmit more than 400 mW in high vacuum conditions. These
+  results, published as parameters in our previous work, present an improvement of
+  two orders of magnitude less loss for the fundamental mode and an increase in transmission
+  of more than 300% for higher-order modes, when following the protocols detailed
+  in this paper. We extract from the transmission during the pull, the only reported
+  spectrogram of a fundamental mode launch that does not include excitation to asymmetric
+  modes; in stark contrast to a pull in which our cleaning protocol is not followed.
+  These results depend critically on the pre-pull cleanliness and when properly following
+  our pulling protocols are in excellent agreement with simulations.
+---

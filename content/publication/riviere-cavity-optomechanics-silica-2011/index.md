@@ -1,0 +1,44 @@
+---
+title: Cavity optomechanics with silica toroidal microresonators down to low phonon
+  occupancy
+authors:
+- Rémi Rivière
+date: '2011-09-01'
+publishDate: '2025-01-03T02:26:47.850922Z'
+publication_types:
+- thesis
+abstract: "In this thesis, I report on the cooling of a macroscopic harmonic mechanical
+  oscillator of mass on the order of 10ng close to its quantum ground state. To perform
+  the refrigeration, we exploit the optomechanical interaction that couples the mechanical
+  degree of freedom to an optical cavity mode via the light's radiation pressure.
+  The delayed response of the intracavity field upon mechanical vibration leads to
+  a viscous intracavity radiation pressure force responsible for the dynamical backaction
+  cooling, as is theoretically introduced in chapter 1. In chapter 2, we review the
+  experimental system accommodating this process: the silica microtoroidal cavity.
+  It advantageously hosts a significant optomechanical coupling between the supported
+  high-finesse (close to 10textasciicircum6) optical whispering-gallery modes and
+  the mechanical radial breathing mode oscillating at radio frequencies (tens of MHz).
+  In chapter 3, we detail the experimental efforts performed to improve the effect
+  of the cooling on the system and thus to reach a lower average number of mechanical
+  energy quanta, or phonons. The various sources of mechanical dissipations are studied.
+  Their magnitude is diminished by optimizing the mechanical structure, therefore
+  reducing the coupling of the mechanical mode to its warm thermal environment. In
+  the newly developed spoke-anchored toroidal microcavities, engineering the intermode
+  coupling minimizes the system's damping down to the limit imposed by the properties
+  of the vitreous silica material. To reduce the temperature of the environment itself,
+  the experiment is pre-cooled first in a prototype helium-4 cryostat. This enables
+  the observation of novel dispersive optical properties of fused silica and the study
+  of the sample's thermalization at cryogenic temperatures. To further increase the
+  pre-cooling, the setup is finally implemented in a colder helium-3 cryostat operated
+  at 850mK. Using the balanced homodyne interferometer constructed to detect the mechanical
+  vibration with quantum-limited sensitivity, we report on the cooling performed in
+  the resolved-sideband configuration that is fundamentally required to reach the
+  ground state. A mean phonon occupancy of 9 +/-1 is achieved. The fact that only
+  simple technical problems limit further cooling proves that the developed experimental
+  system is finally optimized for revealing quantum signatures of a macroscopic mechanical
+  oscillator cooled by dynamical backaction. Finally, the effect of the optomechanical
+  interaction on the optical properties of the cavity is measured and analyzed, leading
+  to the first observation of optomechanically induced transparency. This constitutes
+  an experimental manifestation of the mutual character of interaction between light
+  and mechanical motion."
+---
