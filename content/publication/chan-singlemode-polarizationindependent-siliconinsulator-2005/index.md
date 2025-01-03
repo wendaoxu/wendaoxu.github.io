@@ -1,0 +1,49 @@
+---
+title: Single-Mode and Polarization-Independent Silicon-on-Insulator Waveguides with
+  Small Cross Section
+authors:
+- Seong Phun Chan
+- Ching Eng Png
+- Soon Thor Lim
+- G.T. Reed
+- V.M.N. Passaro
+date: '2005-06-01'
+publishDate: '2025-01-03T02:26:45.297543Z'
+publication_types:
+- article-journal
+publication: '*Journal of Lightwave Technology*'
+doi: 10.1109/JLT.2005.849883
+abstract: The fabrication restrictions that must be imposed on the geometry of optical
+  waveguides to make them behave as single-mode devices are well known for relatively
+  large waveguides, with shallow etch depth. However, the restrictions for small waveguides
+  (/spl sim/1 /spl mu/m or less in cross section) are not well understood. Furthermore,
+  it is usually a requirement that these waveguides are polarization independent,
+  which further complicates the issues. This paper reports on the simulations of the
+  conditions for both single-mode behavior and polarization independence, for small
+  and deeply etched silicon-on-insulator (SOI) waveguides. The aim is to satisfy both
+  conditions simultaneously. The results show that at larger waveguide widths, waveguide
+  etch depth has little effect on the mode birefringence because the transverse-electric
+  (TE) mode (horizontal-polarized mode) is well confined under the rib region. However,
+  at smaller rib widths, the etch depth has a large influence on birefringence. An
+  approximate equation relating the rib-waveguide width and etch depth to obtain polarization-independent
+  operation is derived. It is possible to achieve single-mode operation at both polarizations
+  while maintaining polarization independence for each of the waveguide heights used
+  in this paper but may be difficult for other dimensions. For example, a 1-/spl mu/m
+  SOI rib waveguide with an etch depth of 0.64 /spl mu/m and rib width of 0.52 /spl
+  mu/m is predicted to exhibit such characteristics.
+tags:
+- Birefringence
+- Equations
+- Etching
+- Geometrical optics
+- Optical device fabrication
+- Optical devices
+- Optical polarization
+- Optical waveguides
+- Polarization independence
+- rib waveguides
+- Silicon on insulator technology
+- silicon-on-insulator (SOI)
+- single-mode condition (SMC)
+- Tellurium
+---
