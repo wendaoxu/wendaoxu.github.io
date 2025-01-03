@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research focuses on both theoretical and experimental investigations of **narrow-linewidth stimulated Brillouin scattering** (SBS), a distinctive nonlinear optical interaction that examines the coupling between optical fields and low-frequency, long-lived traveling acoustic waves within photonic waveguides. I work with a variety of photonic waveguides, including specialty optical fibers, fiber tapers, and integrated photonic waveguides. By leveraging these waveguides as photonic processors, I also model, implement, and characterize **high-performance microwave photonic filters** designed to manipulate and process microwave signals with exceptional frequency precision.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am seeking technical job opportunities in industry where I can apply my research and problem-solving skills to contribute to innovative projects. I welcome the chance to connect and explore potential oppotunities. 😃
     design:
       columns: '1'
   - block: collection
