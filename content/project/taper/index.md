@@ -1,5 +1,5 @@
 ---
-title: Low-frequency FIM-FAM in optical fiber tapers
+title: Ultranarrow-linewidth FIM-FAM in optical fiber tapers
 date: 2020-09-01
 #external_link: https://github.com/pandas-dev/pandas
 tags:
@@ -8,6 +8,6 @@ tags:
   - Markdown
 ---
 
-Ultranarrow linewidth Forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.
+Ultranarrow-linewidth FIM-FAM demonstrated within 3 generations of optical fiber tapers.
 
 <!--more-->

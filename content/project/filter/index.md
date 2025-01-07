@@ -7,6 +7,6 @@ tags:
   - Microwave photonics
 ---
 
-Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, maded with FIM-FAM devices.
+Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, made with FIM-FAM devices.
 
 <!--more-->

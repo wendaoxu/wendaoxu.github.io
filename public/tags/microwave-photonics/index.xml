@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/microwave-photonics/</link>
       <atom:link href="http://localhost:1313/tags/microwave-photonics/index.xml" rel="self" type="application/rss+xml" />
     <description>Microwave Photonics</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Microwave Photonics</title>
@@ -15,9 +15,9 @@
     <item>
       <title>FIM-FAM-based microwave photonic filters</title>
       <link>http://localhost:1313/project/filter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/filter/</guid>
-      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, maded with FIM-FAM devices.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, made with FIM-FAM devices.&lt;/p&gt;</description>
     </item>
     
   </channel>

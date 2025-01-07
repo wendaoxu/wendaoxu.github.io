@@ -7,7 +7,7 @@ tags:
   - Specialty optical fiber
 ---
 
-Weak forward intra-modal Brillouin scattering in anti-resonanct hollow-core fibers.
+Weak forward intra-modal Brillouin scattering in anti-resonant hollow-core fibers.
 
 <!--more-->
 

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/specialty-optical-fiber/</link>
       <atom:link href="http://localhost:1313/tags/specialty-optical-fiber/index.xml" rel="self" type="application/rss+xml" />
     <description>Specialty Optical Fiber</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Specialty Optical Fiber</title>
@@ -13,11 +13,11 @@
     </image>
     
     <item>
-      <title>Pandas</title>
+      <title>Brillouin in AR-HCF</title>
       <link>http://localhost:1313/project/arhcf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/arhcf/</guid>
-      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonanct hollow-core fibers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonant hollow-core fibers.&lt;/p&gt;</description>
     </item>
     
   </channel>

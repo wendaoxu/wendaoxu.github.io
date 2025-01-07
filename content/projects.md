@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text:  Here are a selection of research projects that I have worked on over the years.
+      text:  Here are a selection of research projects I have undertaken over the years, primarily focused on **FIM-FAM** (**F**orward **I**nter-**M**odal Brillouin interactions with **F**undamental **A**coustic **M**odes).
       filters:
         folders:
           - project

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/project/</link>
       <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
@@ -15,33 +15,33 @@
     <item>
       <title>FIM-FAM-based microwave photonic filters</title>
       <link>http://localhost:1313/project/filter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/filter/</guid>
-      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, maded with FIM-FAM devices.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
-      <link>http://localhost:1313/project/taper/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/taper/</guid>
-      <description>&lt;p&gt;Ultranarrow linewidth Forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/arhcf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/arhcf/</guid>
-      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonanct hollow-core fibers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, made with FIM-FAM devices.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Unpublished work (coming soon!)</title>
       <link>http://localhost:1313/project/others/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/others/</guid>
       <description>&lt;p&gt;Forward inter-modal Brillouin scattering in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
+      <link>http://localhost:1313/project/taper/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/taper/</guid>
+      <description>&lt;p&gt;Ultranarrow-linewidth forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Brillouin in AR-HCF</title>
+      <link>http://localhost:1313/project/arhcf/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/arhcf/</guid>
+      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonant hollow-core fibers.&lt;/p&gt;</description>
     </item>
     
   </channel>
