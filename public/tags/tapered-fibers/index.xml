@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/tapered-fibers/</link>
       <atom:link href="http://localhost:1313/tags/tapered-fibers/index.xml" rel="self" type="application/rss+xml" />
     <description>Tapered Fibers</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Tapered Fibers</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Ultranarrow-Linewidth Stimulated Intermodal Forward Brillouin Scattering</title>
+      <link>http://localhost:1313/publication/xu-ultranarrow-linewidth-stimulated-intermodal-2023/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-ultranarrow-linewidth-stimulated-intermodal-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Strong optomechanical interactions with long-lived fundamental acoustic waves</title>
       <link>http://localhost:1313/publication/xu-strong-optomechanical-interactions-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/xu-strong-optomechanical-interactions-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stimulated Forward Brillouin Scattering from a Fundamental Acoustic Mode in a Fiber Taper</title>
+      <link>http://localhost:1313/publication/xu-stimulated-forward-brillouin-2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/xu-stimulated-forward-brillouin-2022/</guid>
       <description></description>
     </item>
     

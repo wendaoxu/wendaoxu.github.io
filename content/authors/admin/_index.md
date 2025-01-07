@@ -55,7 +55,7 @@ interests:
 education:
   - area: PhD | Optics
     institution: University of Rochester
-    #date_start: 2019-09
+    date_start: 2019-09-01
     #date_end: 2025-06 (expected)
     summary: |
       GPA: 4.00/4.00
@@ -66,8 +66,8 @@ education:
     #  url: 'https://example.com'
   - area: MS | Electrical and Computer Engineering
     institution: University of Rochester
-    #date_start: 2017-09-01
-    #date_end: 2019-05-31
+    date_start: 2017-09-01
+    date_end: 2019-05-31
     summary: |
       GPA: 3.88/4.0
 
@@ -75,8 +75,8 @@ education:
       
   - area: BEng | Optoelectronic information Science and Technology
     institution: Huazhong University of Science and Technology
-    #date_start: 2013-09-01
-    #date_end: 2017-06-30
+    date_start: 2013-09-01
+    date_end: 2017-06-30
     summary: |
       GPA: 91.1/100
       
@@ -89,34 +89,42 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: COMSOL
+        description: ''
+        percent: 80
+        icon: hero/calculator
+      - name: MATLAB
+        description: ''
+        percent: 80
+        icon: devicon/matlab
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: devicon/python
+      - name: LabVIEW
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: devicon/labview
+      - name: Zemax
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: hero/light-bulb
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: custom/badminton
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Gaming
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/gaming
 
 languages:
   - name: English
@@ -128,11 +136,13 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+#awards:
   
 ---
 
 ## About Me
 
-Wendao Xu is a PhD candidate at the [Renninger Lab](https://labsites.rochester.edu/renninger/), University of Rochester, NY, USA, under the guidance of Prof. William Renninger. His research interests include stimulated Brillouin scattering, cavity optomechanics and microwave photonics. 
+Wendao Xu is a PhD candidate at the [Renninger Lab](https://labsites.rochester.edu/renninger/), University of Rochester, Rochester, NY, under the guidance of Prof. William Renninger. His research interests include stimulated Brillouin scattering, cavity optomechanics and microwave photonics. 
+
+Learn, create, and inspire.
 
