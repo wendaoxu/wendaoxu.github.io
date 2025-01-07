@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brillouin | Wendao Xu</title>
+    <link>http://localhost:1313/tags/brillouin/</link>
+      <atom:link href="http://localhost:1313/tags/brillouin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brillouin</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Brillouin</title>
+      <link>http://localhost:1313/tags/brillouin/</link>
+    </image>
+    
+    <item>
+      <title>FIM-FAM-based microwave photonic filters</title>
+      <link>http://localhost:1313/project/filter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/filter/</guid>
+      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, maded with FIM-FAM devices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
+      <link>http://localhost:1313/project/taper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/taper/</guid>
+      <description>&lt;p&gt;Ultranarrow linewidth Forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/arhcf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/arhcf/</guid>
+      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonanct hollow-core fibers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Unpublished work (coming soon!)</title>
+      <link>http://localhost:1313/project/others/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/others/</guid>
+      <description>&lt;p&gt;Forward inter-modal Brillouin scattering in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

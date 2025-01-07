@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fiber Taper | Wendao Xu</title>
+    <link>http://localhost:1313/tags/fiber-taper/</link>
+      <atom:link href="http://localhost:1313/tags/fiber-taper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fiber Taper</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Fiber Taper</title>
+      <link>http://localhost:1313/tags/fiber-taper/</link>
+    </image>
+    
+    <item>
+      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
+      <link>http://localhost:1313/project/taper/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/taper/</guid>
+      <description>&lt;p&gt;Ultranarrow linewidth Forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

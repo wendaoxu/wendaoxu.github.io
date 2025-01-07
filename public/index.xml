@@ -152,30 +152,6 @@
     </item>
     
     <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>http://localhost:1313/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
       <link>http://localhost:1313/post/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -302,7 +278,7 @@
 
 
 
-&lt;div id=&#34;chart-573612984&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-892651734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -320,7 +296,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-573612984&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-892651734&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -938,6 +914,14 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>FIM-FAM-based microwave photonic filters</title>
+      <link>http://localhost:1313/project/filter/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/filter/</guid>
+      <description>&lt;p&gt;Ultranarrow bandwidth Brillouin-based microwave photonic bandpass filter, maded with FIM-FAM devices.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Ultranarrow-Linewidth Stimulated Intermodal Forward Brillouin Scattering</title>
       <link>http://localhost:1313/publication/xu-ultranarrow-linewidth-stimulated-intermodal-2023/</link>
       <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
@@ -954,11 +938,27 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Unpublished work (coming soon!)</title>
+      <link>http://localhost:1313/project/others/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/others/</guid>
+      <description>&lt;p&gt;Forward inter-modal Brillouin scattering in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Stimulated Forward Brillouin Scattering from a Fundamental Acoustic Mode in a Fiber Taper</title>
       <link>http://localhost:1313/publication/xu-stimulated-forward-brillouin-2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/xu-stimulated-forward-brillouin-2022/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
+      <link>http://localhost:1313/project/taper/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/taper/</guid>
+      <description>&lt;p&gt;Ultranarrow linewidth Forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -975,6 +975,14 @@ Parallel 4   :         des6, after des4, 1d
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/iyer-brillouin-scattering-resonant-2019/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/project/arhcf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/arhcf/</guid>
+      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonanct hollow-core fibers.&lt;/p&gt;</description>
     </item>
     
   </channel>
