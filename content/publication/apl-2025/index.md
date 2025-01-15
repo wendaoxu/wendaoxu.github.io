@@ -14,6 +14,7 @@ publication_types:
 - article-journal
 publication: '*APL Photonics*'
 doi: 10.1063/5.0242703
+featured: true
 abstract: Stimulated Brillouin scattering is a well-known nonlinear optical interaction
   valued for applications including narrow-linewidth lasers, phase conjugation, sensing,
   and RF-signal processing such as delay lines and filters. While interaction strength
