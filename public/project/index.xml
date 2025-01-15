@@ -25,15 +25,15 @@
       <link>http://localhost:1313/project/others/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/others/</guid>
-      <description>&lt;p&gt;Forward inter-modal Brillouin scattering in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.&lt;/p&gt;</description>
+      <description>&lt;p&gt;FIM-FAM in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Low-frequency FIM-FAM in optical fiber tapers</title>
+      <title>Ultranarrow-linewidth FIM-FAM in optical fiber tapers</title>
       <link>http://localhost:1313/project/taper/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/taper/</guid>
-      <description>&lt;p&gt;Ultranarrow-linewidth forward inter-modal Brillouin scattering, demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Ultranarrow-linewidth FIM-FAM demonstrated within 3 generations of optical fiber tapers.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -41,7 +41,10 @@
       <link>http://localhost:1313/project/arhcf/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/arhcf/</guid>
-      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonant hollow-core fibers.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Weak forward intra-modal Brillouin scattering in anti-resonant hollow-core fibers.&lt;/p&gt;
+&lt;p&gt;This project targeted at characterizing forward intra-modal Brillouin scattering in an anti-resonant hollow-core fiber. &lt;/p&gt;
+&lt;p&gt;I numerically simulated the guided optical and acoustic modes to acquire their field distributions on the fiber cross-section, with a commercial finite-element solver, COMSOL Multiphysics. With the field distributions, I calculated the Brillouin gain coefficient that describves the coupling efficiency among the optical and acoustic waves traveling inside the fiber waveguide. Since the optical energy is concentrated inside the air of the hollow-core fiber, which has pretty weak Brillouin response as a gas material, the Brillouin gain coefficients correposnding to all the guided acoustic modes are small, at least two orders of magnitudes smaller than those in standard solid-core optical fibers.&lt;/p&gt;
+&lt;p&gt;I used an sensitive experimental setup to measure the weak Brillouin signal from the fiber. The setup consists of: Optical - tunable lasers, beam splitters, collimating lenses, optical filters. Mechanical - multi-axis translation stages. Electro-optical: intensity modulator, photodetectors. I adjusted the translation stages to efficiently couple light into and out of the fiber. I adjusted the output frequency of the electrical signal generator used on the intensity modulator, and track the corresponding Brillouin response from the system on a electrical spectrum analyzer. &lt;/p&gt;</description>
     </item>
     
   </channel>
