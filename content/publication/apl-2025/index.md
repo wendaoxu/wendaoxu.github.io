@@ -38,6 +38,8 @@ abstract: Stimulated Brillouin scattering is a well-known nonlinear optical inte
   the waist. Extending strongly coupled Brillouin interactions to ultranarrow linewidths
   with a recipe for fabrication, detailed characterization techniques, and a comprehensive
   theoretical treatment will benefit high-performance Brillouin-based photonic applications.
+tags:
+- Stimulated Brillouin scattering
 links:
 - name: URL
   url: https://doi.org/10.1063/5.0242703
