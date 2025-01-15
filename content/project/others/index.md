@@ -7,6 +7,6 @@ tags:
 
 ---
 
-FIM-FAM in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.
+Novel Brillouin scattering in specialty fibers and silicon nitride integrated waveguides. Feel free to ask me for reasonable details.
 
 <!--more-->
