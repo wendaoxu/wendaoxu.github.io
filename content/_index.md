@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: uploads/Resume_WendaoXu_V7.pdf
+        url: uploads/Resume_WendaoXu_2p_V1.pdf
     design:
       css_class: dark
       background:
